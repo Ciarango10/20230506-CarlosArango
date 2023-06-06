@@ -1,0 +1,40 @@
+ 488  touch comandos.txt main.js index.html
+  489  git add .
+  490  git commit -m"commit 01 de CarlosArango"
+  491  git remote add origin https://github.com/Ciarango10/20230506-CarlosArango.git
+  492  git push -u origin main
+  493  git branch feature
+  494  git checkout feature
+  495  mkdir Hardware Software SeguridadInformatica
+  496  touch /Hardware resumen.txt
+  497  cd Hardware
+  498  touch resumen.txt
+  499  cd ..
+  500  touch Software
+  501  ls -R
+  502  rm software
+  503  cd software
+  504  touch resumen.txt
+  505  cd ..
+  506  cd SeguridadInformatica/
+  507  touch resumen.txt
+  508  cd ..
+  509  ls -R
+  510  rm resumen.txt
+  511   ls -R
+  512  git add .
+  513  git commit -m"commit 02 CarlosArango"
+  514  git push origin feature
+  515  checkout main
+  516  git checkout main
+  517  ls -R
+  518  mv main.js resumenHardware.txt
+  519  ls -r
+  520  mv index.html resumenSoftware,txt
+  521  mv resumenSoftware,txt resumenSoftware.txt
+  522  ls -r
+  523  nano resumenSoftware.txt
+  524  cat resumenSoftware.txt
+  525  nano resumenHardware.txt
+  526  cat resumenHardware.txt
+  527  history
